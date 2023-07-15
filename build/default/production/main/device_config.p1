@@ -1,0 +1,58 @@
+Version 4.0 HI-TECH Software Intermediate Code
+"13 main/device_config.c
+[p x OSC  =  HS          ]
+"14
+[p x OSCS  =  OFF        ]
+"17
+[p x PWRT  =  OFF        ]
+"18
+[p x BOR  =  OFF         ]
+"19
+[p x BORV  =  20         ]
+"22
+[p x WDT  =  OFF         ]
+"23
+[p x WDTPS  =  128       ]
+"26
+[p x CCP2MUX  =  ON      ]
+"29
+[p x STVR  =  ON         ]
+"30
+[p x LVP  =  OFF         ]
+"33
+[p x CP0  =  OFF         ]
+"34
+[p x CP1  =  OFF         ]
+"35
+[p x CP2  =  OFF         ]
+"36
+[p x CP3  =  OFF         ]
+"39
+[p x CPB  =  OFF         ]
+"40
+[p x CPD  =  OFF         ]
+"43
+[p x WRT0  =  OFF        ]
+"44
+[p x WRT1  =  OFF        ]
+"45
+[p x WRT2  =  OFF        ]
+"46
+[p x WRT3  =  OFF        ]
+"49
+[p x WRTC  =  OFF        ]
+"50
+[p x WRTB  =  OFF        ]
+"51
+[p x WRTD  =  OFF        ]
+"54
+[p x EBTR0  =  OFF       ]
+"55
+[p x EBTR1  =  OFF       ]
+"56
+[p x EBTR2  =  OFF       ]
+"57
+[p x EBTR3  =  OFF       ]
+"60
+[; ;main/device_config.c: 60: 
+[p x EBTRB  =  OFF       ]
